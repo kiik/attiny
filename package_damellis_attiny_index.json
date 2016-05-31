@@ -74,18 +74,17 @@
         {
           "name": "attiny",
           "architecture": "avr",
-          "version": "1.0.2",
+          "version": "1.0.3",
           "category": "attiny",
           "help": {
             "online": ""
           },
-          "url": "https://github.com/kiik/attiny/archive/master.zip",
-          "archiveFileName": "master.zip",
+          "url": "https://github.com/damellis/attiny/archive/76ca88ce3c195fcba8e8a645084e352965dc80e0.zip",
+          "archiveFileName": "76ca88ce3c195fcba8e8a645084e352965dc80e0.zip",
           "checksum": "SHA-256:49a4dfc3796caf2533050b0b962ae0affb2471b8ded1283936d7b712cc1fdff1",
           "size": "5719",
           "boards": [
             {"name": "ATtiny25"},
-            {"name": "ATtiny45"},
             {"name": "ATtiny85"},
             {"name": "ATtiny44"},
             {"name": "ATtiny84"}
@@ -102,7 +101,8 @@
               "version": "6.0.1-arduino5"
             }
           ]
-        }
+        },
+        
       ],
       "tools": []
     }
