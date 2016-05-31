@@ -22,6 +22,7 @@
           "checksum": "SHA-256:bfffa4a700e42ae993895f5eea22bc369ba5ac3ea36eca18ac5f72a05bb60ab5",
           "size": "5005",
           "boards": [
+            {"name": "ATtiny25"},
             {"name": "ATtiny45"},
             {"name": "ATtiny85"},
             {"name": "ATtiny44"},
@@ -53,6 +54,7 @@
           "checksum": "SHA-256:49a4dfc3796caf2533050b0b962ae0affb2471b8ded1283936d7b712cc1fdff1",
           "size": "5719",
           "boards": [
+            {"name": "ATtiny25"},
             {"name": "ATtiny45"},
             {"name": "ATtiny85"},
             {"name": "ATtiny44"},
